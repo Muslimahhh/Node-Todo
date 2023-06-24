@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #todo-list {
+    margin-top: 20px;
+  }
+  
+  .todo-item {
+    margin-bottom: 10px;
+  }
+  
+  .todo-item .title {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .todo-item .completed {
+    color: green;
+  }
+  
+  form {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  #todo-input {
+    padding: 5px;
+    width: 200px;
+  }
+  
+  button {
+    padding: 5px 10px;
+  }
+  
